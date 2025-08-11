@@ -1,0 +1,4 @@
+A base de dados não foi disponibilizada pelo artigo autoral, assim decidimos não subir ela, por não saber se é permitido disponibiliza-lá. Para conseguir o acesso, recomendamos mandar um e-mail para os autores do artigo que a originou (Wesley Santos e Ivandré Paraboni). 
+
+Para reproduzir a divisão dos dados do trabalho use: 
+StratifiedKFold(n_splits=10, shuffle=True, random_state=115)
